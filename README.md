@@ -1,6 +1,5 @@
 # implementing stack with Array -----> Assignment-01
-# Made by :- Amir Hanafi
-# Search , Add and Remove Element in Array C++
+# Made by :- Amir Hanafi Mohamed Mohamed
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛
